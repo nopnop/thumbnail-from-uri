@@ -1,0 +1,19 @@
+{
+  "name": "thumbnail-from-uri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filepreview": "^1.0.12",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "standard": "^9.0.1"
+  }
+}
